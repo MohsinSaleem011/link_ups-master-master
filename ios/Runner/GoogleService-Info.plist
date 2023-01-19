@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>404117408840-vr51o9vdgr1p83h9fgsndqnggdph180b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.404117408840-vr51o9vdgr1p83h9fgsndqnggdph180b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPM4KXUMRsJ5mkSIepTqpmu3SNinCKhV4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>404117408840</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bluskies.linkUp</string>
+	<key>PROJECT_ID</key>
+	<string>linkup-cfa21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>linkup-cfa21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:404117408840:ios:81012397d37e0fd7b05c7d</string>
+	<key>DATABASE_URL</key>
+	<string>https://linkup-cfa21-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

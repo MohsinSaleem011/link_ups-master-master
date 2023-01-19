@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404117408840",
+    "firebase_url": "https://linkup-cfa21-default-rtdb.firebaseio.com",
+    "project_id": "linkup-cfa21",
+    "storage_bucket": "linkup-cfa21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404117408840:android:e39ae45c0f1ada01b05c7d",
+        "android_client_info": {
+          "package_name": "com.bluskies.linkUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404117408840-1i0mc0u2csu0hothphuncb09g7oih4am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluskies.linkUp",
+            "certificate_hash": "474e3d671822585125e2ef8830447001bb383f50"
+          }
+        },
+        {
+          "client_id": "404117408840-ms01ace5k0mgglekq4lkesf2plvo7f65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFaIcLVtympusfhyWS12vGiruCOskif8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404117408840-ms01ace5k0mgglekq4lkesf2plvo7f65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "404117408840-195ctd9tltc69b3lf5i5cis4vakq3uml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linkup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
